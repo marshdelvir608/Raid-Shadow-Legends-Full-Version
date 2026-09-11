@@ -267,3 +267,6 @@ This repository serves as the official landing page for RAID: Shadow Legends. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of RAID: Shadow Legends today!**
+
+---
+**Last updated:** 2026-09-11 05:36:09 UTC
